@@ -4,6 +4,7 @@ Primer juego desarrollado en Unity 2d, se basa en un Snowboarder llamado "Scott"
 
 <h3 align="left"> Tecnologias Utilizadas </h3>
 <li> C# 
+<li> Unity
   
 El jugador puede aumentar la velocidad de Scott con la flecha hacia arriba, al estar en el aire puede dar vueltas tanto para adelante como para atras. El juego se da por perdido y comienzan de nuevo cuando Scott se golpea la cabeza, por otro lado, al llegar al final tambien se reinicia. 
 
